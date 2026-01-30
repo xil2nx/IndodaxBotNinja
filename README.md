@@ -82,6 +82,8 @@ Mode DRY_RUN (Simulasi)
 
 Gunakan mode DRY_RUN untuk menjalankan bot tanpa mengeksekusi order nyata. Ini berguna untuk uji strategi sebelum trading dengan dana nyata.
 
+
+
 Screenshot Dashboard (Contoh)
 ⚡ INDODAX DASHBOARD | 1h | 12:34:56 | BOT BOT-1234
 ========================================================================================================================
@@ -93,6 +95,8 @@ ETH/IDR  | 30,000,000   | 38.5 █████░░░░░░░░░░   |
 ========================================================================================================================
 ONLINE BOT : 1
 MODAL 1,000,000 | EKUITAS 1,050,000 | PNL +5.00%
+
+
 
 Contoh Laporan Telegram
 📊 LAPORAN BOT INDODAX
