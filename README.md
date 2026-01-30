@@ -9,6 +9,6 @@ Bot trading/monitoring berbasis Python untuk market Indodax.
 
 ## Instalasi
 ```bash
-git clone https://github.com/USERNAME/NAMA-REPO.git
-cd NAMA-REPO
+git clone git clone https://github.com/ilansurf/indodaxbotninja.git
+cd indodaxbotninja
 pip install -r requirements.txt
