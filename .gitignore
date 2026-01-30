@@ -15,3 +15,7 @@ config.txt
 # OS
 .DS_Store
 Thumbs.db
+
+online.json
+positions.json
+
