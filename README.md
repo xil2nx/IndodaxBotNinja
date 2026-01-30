@@ -1,27 +1,28 @@
 # Indodax Bot Ninja
 
-Bot berbasis Python untuk monitoring dan analisis market Indodax.
-Dirancang untuk penggunaan pribadi, riset, dan automasi sederhana dengan notifikasi.
+Indodax Bot Ninja adalah aplikasi **monitoring market otomatis** berbasis Python untuk exchange **Indodax**.  
+Bot ini menampilkan harga real-time, membuat laporan berkala, dan mengirim notifikasi melalui **Telegram**.
+
+Cocok untuk:
+- Trader harian
+- Monitoring harga tanpa buka chart
+- Automation ringan di VPS / RDP
 
 ---
 
-## Fitur
-- Monitoring harga koin
-- Laporan berkala
-- Notifikasi Telegram
-- Konfigurasi aman (API tidak di-commit)
+## Fitur Utama
+- 📊 Monitoring harga real-time
+- ⏱️ Laporan otomatis (interval menit)
+- 🔔 Notifikasi Telegram
+- 🔐 Konfigurasi aman (API tidak di-commit)
+- ⚙️ Mudah dikembangkan
 
 ---
 
-## Requirement
-- Python 3.9 atau lebih baru
-- pip (Python package manager)
+## Persyaratan
+- Python **3.9 atau lebih baru**
+- pip
 
----
-
-## Instalasi
-
-Clone repository:
+Cek versi Python:
 ```bash
-git clone https://github.com/USERNAME/NAMA-REPO.git
-cd NAMA-REPO
+python --version
