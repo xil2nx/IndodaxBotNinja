@@ -1,0 +1,15 @@
+# Config & secrets
+config.txt
+
+# Runtime files
+positions.json
+online.json
+error.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
